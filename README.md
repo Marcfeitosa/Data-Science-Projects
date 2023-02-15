@@ -36,8 +36,8 @@ Data Science studies
   
   [Machine Learning](https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Machine%20Learning)
   ------------------
-   *[K-Means-Klustering](#https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Machine%20Learning/K-Means-Klustering)
-    --------------------
+   [K-Means-Klustering](#https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Machine%20Learning/K-Means-Klustering)
+   --------------------
   Machine Learning Studies, there's a file of sentiment studies using twitter in this folder.
   
   
