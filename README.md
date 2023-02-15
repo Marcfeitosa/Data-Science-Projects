@@ -25,6 +25,9 @@ Table of contents
         * [Seaborn](#Seaborn)
         * [Visualização de dados incorporada do Pandas](#Visualização-de-dados-incorporada-do-Pandas)
       * [Python para análise de dados](Python-para-análise-de-dados)
+        * [NumPy](#NumPy)
+        * [Pandas](#Pandas)
+        * [SciPy](#SciPy)
    * [Projetos de dados](#Projetos-de-dados)
 <!--te-->
 
@@ -70,6 +73,9 @@ Data Science studies
   
   [Python para análise de dados](https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Python%20para%20an%C3%A1lise%20de%20dados)
   ------------------------------
+    [NumPy]
+    [Pandas]
+    [SciPy]
   
 Projetos de dados
 ===================
