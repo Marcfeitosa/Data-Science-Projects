@@ -7,8 +7,8 @@ Table of contents
 <!--ts-->
 
    * [Learning](#learning)
-      * [Big Data e Spark](#Big%20Data%20e%20Spark)
-      * [Curso Relâmpago de Python](#Curso%20Rel%C3%A2mpago%20de%20Python))
+      * [Big Data e Spark](#Big Data e Spark)
+      * [Curso Relâmpago de Python](#Curso%20Rel%C3%A2mpago%20de%20Python)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
