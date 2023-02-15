@@ -19,6 +19,11 @@ Table of contents
         * [Regressao_logistica](#Regressao_logistica)
         * [Support-Vector-Machines](#Support-Vector-Machines)
       * [Python para Visualização de dados](#Python-para-Visualização-de-dados)
+        * [Geographical Plotting](#Geographical-Plotting)
+        * [Matplotlib](#Matplotlib)
+        * [Plotly e Cufflinks](#Plotly-e-Cufflinks)
+        * [Seaborn](#Seaborn)
+        * [Visualização de dados incorporada do Pandas](#Visualização-de-dados-incorporada-do-Pandas)
       * [Python para análise de dados](Python-para-análise-de-dados)
    * [Projetos de dados](#Projetos-de-dados)
 <!--te-->
@@ -55,6 +60,12 @@ Data Science studies
   
   [Python para Visualização de dados](https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Python%20para%20Visualiza%C3%A7%C3%A3o%20de%20dados)
   -----------------------------------
+    [Geographical Plotting] Learning and exercices with all datasets
+    [Matplotlib] Learning and exercices with all datasets
+    [Plotly e Cufflinks] Learning and exercices with all datasets
+    [Seaborn] Learning and exercices with all datasets
+    [Visualização de dados incorporada do Pandas] Learning and exercices with all datasets
+    
   Viewing data with Python
   
   [Python para análise de dados](https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Python%20para%20an%C3%A1lise%20de%20dados)
