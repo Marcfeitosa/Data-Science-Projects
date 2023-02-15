@@ -12,6 +12,12 @@ Table of contents
       * [Estatistica_Aplicada](#Estatistica-Aplicada)
       * [Machine Learning](#Machine-Learning)
         * [K-Means-Klustering](#K-Means-Klustering)
+        * [K-Nearest-Neighbors](#K-Nearest-Neighbors)
+        * [NaiveBayes-Materiais-de-Apoio](#K-Nearest-Neighbors)
+        * [Random-Decision-Tree](#Random-Decision-Tree)
+        * [Regressao-Linear](#Regressao-Linear)
+        * [Regressao_logistica](#Regressao_logistica)
+        * [Support-Vector-Machines](#Support-Vector-Machines)
       * [Python para Visualização de dados](#Python-para-Visualização-de-dados)
       * [Python para análise de dados](Python-para-análise-de-dados)
    * [Projetos de dados](#Projetos-de-dados)
@@ -36,8 +42,14 @@ Data Science studies
   
   [Machine Learning](https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Machine%20Learning)
   ------------------
-   [K-Means-Klustering](#https://github.com/Marcfeitosa/Data-Science-Projects/tree/main/Learning/Machine%20Learning/K-Means-Klustering)
-   =====
+    [K-Means-Klustering] Learning and exercices with all datasets
+    [K-Nearest-Neighbors] Learning and exercices with all datasets
+    [NaiveBayes-Materiais-de-Apoio] Learning and exercices with all datasets
+    [Random-Decision-Tree] Learning and exercices with all datasets
+    [Regressao-Linear] Learning and exercices with all datasets
+    [Regressao_logistica] Learning and exercices with all datasets - There's a project in this folder
+    [Support-Vector-Machines] Learning and exercices with all datasets
+    
   Machine Learning Studies, there's a file of sentiment studies using twitter in this folder.
   
   
