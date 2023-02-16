@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-#Here are all my data science exercices and projects, You'll find a lot of learning material in the folder Learning. You can find specific material in subfolders and basic studies and basic notebooks in this folder.
+#Here are all my data science exercices and projects, You'll find a lot of learning material in the folder Learning. You can find specific material in subfolders and basic studies and notebooks also.
 
 Table of contents
 =================
