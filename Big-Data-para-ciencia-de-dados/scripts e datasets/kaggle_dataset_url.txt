@@ -1,0 +1,4 @@
+https://www.kaggle.com/nhs/general-practice-prescribing-data
+
+# dataset de diabets
+https://www.kaggle.com/uciml/pima-indians-diabetes-database
