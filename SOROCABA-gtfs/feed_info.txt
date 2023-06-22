@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_contact_email
+CittaMobi,http://www.cittamobi.com.br,pt,dev@cittamobi.com.br

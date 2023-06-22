@@ -1,0 +1,9 @@
+fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+21390,4.90,BRL,0,0,1049,
+21395,5.25,BRL,0,0,1049,
+21398,6.00,BRL,0,0,1049,
+21412,5.40,BRL,0,0,1049,
+21394,5.50,BRL,0,0,1049,
+21399,6.15,BRL,0,0,1049,
+21407,5.35,BRL,0,0,1049,
+21426,5.15,BRL,0,0,1049,
